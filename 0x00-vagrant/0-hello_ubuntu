@@ -1,0 +1,1 @@
+The uname command is used to print basic information about the operating system name and system hardware 4. If you run it without any option, it will print the kernel name of your system 56. For example, on my system, it prints:Linux
